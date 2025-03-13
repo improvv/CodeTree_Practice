@@ -1,4 +1,5 @@
-a = input()
+a = int(input())
 
-if a<0:
+print(a)
+if a < 0:
     print('minus')
