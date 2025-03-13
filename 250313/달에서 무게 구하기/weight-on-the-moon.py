@@ -1,4 +1,3 @@
-a = 13
-b = 0.165
+a = float(input())
 
-print(f"{a} * {b:.6f} = {a*b:.6f}")
+print(f'{a:.2f}')
