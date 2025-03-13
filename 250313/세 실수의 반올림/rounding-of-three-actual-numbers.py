@@ -1,6 +1,6 @@
-a = input()
-b = input()
-c = input()
+a = float(input())
+b = float(input())
+c = float(input())
 
 print(f'{a:.3f}')
 print(f'{b:.3f}')
